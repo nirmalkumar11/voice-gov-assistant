@@ -1537,5 +1537,5 @@ def test_multi_channel_audio_capture(channel, session_id):
 - Use AWS X-Ray for end-to-end tracing
 - Trace each request through all components
 - Identify bottlenecks and slow components
-- Track external integration latency
+
 
